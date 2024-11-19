@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+header {
+  background-color: #343a40;
+  color: white;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+#total-price {
+  text-align: right;
+}
